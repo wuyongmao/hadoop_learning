@@ -1,2 +1,4 @@
-# hadoop_learning
-Hadoop 学习
+##  hadoop
+* hdfs
+* hive
+* spark

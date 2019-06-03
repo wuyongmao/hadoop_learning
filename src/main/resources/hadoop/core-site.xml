@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+ 
+<configuration>
+   <!-- 配置默认的文件系统，地址最好使用主机名而不是IP -->
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://172.16.89.69:9000</value>
+    </property>
+    <!-- Hadoop 运行时产生文件的存储目录 -->
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>/home/hadoop/data/hadoopdata/data</value>
+    </property>
+
+</configuration>
+

@@ -1,0 +1,667 @@
+[WARN][2019-05-14 14:06:40,441][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:06:41,083][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-14 14:06:41,086][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-14 14:06:41,134][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-14 14:13:12,622][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:13:13,109][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-14 14:13:13,111][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-14 14:13:13,149][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-14 14:15:36,410][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:15:37,000][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-14 14:15:37,003][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-14 14:15:37,044][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-14 14:16:11,235][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:16:11,804][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-14 14:16:11,807][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-14 14:16:11,852][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-14 14:17:13,716][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:17:14,203][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-14 14:17:14,205][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-14 14:17:14,243][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[INFO][2019-05-14 14:17:39,528][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 0 time(s); maxRetries=45
+[INFO][2019-05-14 14:17:59,531][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 1 time(s); maxRetries=45
+[INFO][2019-05-14 14:18:19,535][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 2 time(s); maxRetries=45
+[INFO][2019-05-14 14:18:39,552][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 3 time(s); maxRetries=45
+[INFO][2019-05-14 14:18:59,571][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 4 time(s); maxRetries=45
+[INFO][2019-05-14 14:19:19,592][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 5 time(s); maxRetries=45
+[INFO][2019-05-14 14:19:39,612][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 6 time(s); maxRetries=45
+[INFO][2019-05-14 14:19:59,633][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 7 time(s); maxRetries=45
+[INFO][2019-05-14 14:20:19,650][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 8 time(s); maxRetries=45
+[INFO][2019-05-14 14:20:39,669][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 9 time(s); maxRetries=45
+[INFO][2019-05-14 14:20:59,689][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 10 time(s); maxRetries=45
+[INFO][2019-05-14 14:21:19,702][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 11 time(s); maxRetries=45
+[INFO][2019-05-14 14:21:39,720][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 12 time(s); maxRetries=45
+[INFO][2019-05-14 14:21:59,740][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 13 time(s); maxRetries=45
+[INFO][2019-05-14 14:22:19,760][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 14 time(s); maxRetries=45
+[INFO][2019-05-14 14:22:39,781][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 15 time(s); maxRetries=45
+[INFO][2019-05-14 14:22:59,794][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 16 time(s); maxRetries=45
+[INFO][2019-05-14 14:23:19,807][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 17 time(s); maxRetries=45
+[INFO][2019-05-14 14:23:39,821][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 18 time(s); maxRetries=45
+[INFO][2019-05-14 14:23:59,841][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 19 time(s); maxRetries=45
+[INFO][2019-05-14 14:24:19,843][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 20 time(s); maxRetries=45
+[INFO][2019-05-14 14:24:39,863][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 21 time(s); maxRetries=45
+[WARN][2019-05-14 14:24:57,589][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:24:59,884][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 22 time(s); maxRetries=45
+[INFO][2019-05-14 14:25:21,535][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 23 time(s); maxRetries=45
+[INFO][2019-05-14 14:25:26,968][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 0 time(s); maxRetries=45
+[INFO][2019-05-14 14:25:41,549][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 24 time(s); maxRetries=45
+[INFO][2019-05-14 14:25:46,990][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 1 time(s); maxRetries=45
+[INFO][2019-05-14 14:26:01,569][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 25 time(s); maxRetries=45
+[INFO][2019-05-14 14:26:07,010][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 2 time(s); maxRetries=45
+[WARN][2019-05-14 14:26:16,717][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:26:21,584][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 26 time(s); maxRetries=45
+[INFO][2019-05-14 14:26:27,031][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 3 time(s); maxRetries=45
+[INFO][2019-05-14 14:26:41,604][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 27 time(s); maxRetries=45
+[INFO][2019-05-14 14:26:47,052][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 4 time(s); maxRetries=45
+[INFO][2019-05-14 14:27:01,624][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 28 time(s); maxRetries=45
+[INFO][2019-05-14 14:27:07,063][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 5 time(s); maxRetries=45
+[INFO][2019-05-14 14:27:21,645][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 29 time(s); maxRetries=45
+[INFO][2019-05-14 14:27:27,085][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 6 time(s); maxRetries=45
+[INFO][2019-05-14 14:27:41,667][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 30 time(s); maxRetries=45
+[INFO][2019-05-14 14:27:47,105][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 7 time(s); maxRetries=45
+[INFO][2019-05-14 14:28:01,749][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 31 time(s); maxRetries=45
+[INFO][2019-05-14 14:28:07,124][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 8 time(s); maxRetries=45
+[INFO][2019-05-14 14:28:21,752][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 32 time(s); maxRetries=45
+[INFO][2019-05-14 14:28:27,139][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 9 time(s); maxRetries=45
+[INFO][2019-05-14 14:28:41,771][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 33 time(s); maxRetries=45
+[INFO][2019-05-14 14:28:47,161][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 10 time(s); maxRetries=45
+[INFO][2019-05-14 14:29:01,780][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 34 time(s); maxRetries=45
+[INFO][2019-05-14 14:29:07,175][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 11 time(s); maxRetries=45
+[INFO][2019-05-14 14:29:21,800][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 35 time(s); maxRetries=45
+[INFO][2019-05-14 14:29:27,195][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 12 time(s); maxRetries=45
+[INFO][2019-05-14 14:29:41,818][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 36 time(s); maxRetries=45
+[INFO][2019-05-14 14:29:47,217][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 13 time(s); maxRetries=45
+[INFO][2019-05-14 14:30:01,837][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 37 time(s); maxRetries=45
+[INFO][2019-05-14 14:30:07,238][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 14 time(s); maxRetries=45
+[INFO][2019-05-14 14:30:21,859][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 38 time(s); maxRetries=45
+[INFO][2019-05-14 14:30:27,256][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 15 time(s); maxRetries=45
+[WARN][2019-05-14 14:30:32,237][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-14 14:30:41,872][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 39 time(s); maxRetries=45
+[INFO][2019-05-14 14:30:47,273][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 16 time(s); maxRetries=45
+[INFO][2019-05-14 14:31:01,879][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 40 time(s); maxRetries=45
+[INFO][2019-05-14 14:31:07,292][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 17 time(s); maxRetries=45
+[INFO][2019-05-14 14:31:21,901][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 41 time(s); maxRetries=45
+[INFO][2019-05-14 14:31:27,306][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 18 time(s); maxRetries=45
+[INFO][2019-05-14 14:31:41,923][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 42 time(s); maxRetries=45
+[INFO][2019-05-14 14:31:47,321][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 19 time(s); maxRetries=45
+[INFO][2019-05-14 14:32:01,944][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 43 time(s); maxRetries=45
+[INFO][2019-05-14 14:32:07,342][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 20 time(s); maxRetries=45
+[INFO][2019-05-14 14:32:21,956][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 44 time(s); maxRetries=45
+[INFO][2019-05-14 14:32:27,361][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 21 time(s); maxRetries=45
+[INFO][2019-05-14 14:32:47,372][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 22 time(s); maxRetries=45
+[INFO][2019-05-14 14:33:07,375][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 23 time(s); maxRetries=45
+[INFO][2019-05-14 14:33:27,397][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 24 time(s); maxRetries=45
+[INFO][2019-05-14 14:33:47,416][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 25 time(s); maxRetries=45
+[INFO][2019-05-14 14:34:07,437][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 26 time(s); maxRetries=45
+[INFO][2019-05-14 14:34:27,445][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 27 time(s); maxRetries=45
+[INFO][2019-05-14 14:34:47,460][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 28 time(s); maxRetries=45
+[INFO][2019-05-14 14:35:07,478][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 29 time(s); maxRetries=45
+[INFO][2019-05-14 14:35:27,500][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 30 time(s); maxRetries=45
+[INFO][2019-05-14 14:35:47,521][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 31 time(s); maxRetries=45
+[INFO][2019-05-14 14:36:07,525][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 32 time(s); maxRetries=45
+[INFO][2019-05-14 14:36:27,527][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 33 time(s); maxRetries=45
+[INFO][2019-05-14 14:36:47,534][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 34 time(s); maxRetries=45
+[INFO][2019-05-14 14:37:07,538][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 35 time(s); maxRetries=45
+[INFO][2019-05-14 14:37:27,549][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 36 time(s); maxRetries=45
+[INFO][2019-05-14 14:37:47,572][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 37 time(s); maxRetries=45
+[INFO][2019-05-14 14:38:08,775][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 38 time(s); maxRetries=45
+[INFO][2019-05-14 14:38:28,795][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 39 time(s); maxRetries=45
+[INFO][2019-05-14 14:38:48,810][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 40 time(s); maxRetries=45
+[INFO][2019-05-14 14:39:08,825][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 41 time(s); maxRetries=45
+[INFO][2019-05-14 14:39:28,832][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 42 time(s); maxRetries=45
+[INFO][2019-05-14 14:39:48,853][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 43 time(s); maxRetries=45
+[INFO][2019-05-14 14:40:08,870][org.apache.hadoop.ipc.Client]Retrying connect to server: 39.96.56.163/39.96.56.163:9000. Already tried 44 time(s); maxRetries=45
+[WARN][2019-05-24 17:05:34,270][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-24 17:08:01,414][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-24 17:08:02,121][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-24 17:08:02,127][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-24 17:08:02,176][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-24 17:09:22,147][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-24 17:09:22,596][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-24 17:09:22,598][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-24 17:09:22,637][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-24 17:13:33,419][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-24 17:13:33,975][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-24 17:13:33,979][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-24 17:13:34,024][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-24 17:21:08,666][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-24 17:21:09,202][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-24 17:21:09,204][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-24 17:21:09,260][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-24 17:22:06,434][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-24 17:26:24,446][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-24 17:27:29,525][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-24 17:28:23,858][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-24 17:28:24,411][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-24 17:28:24,414][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-24 17:28:24,460][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-24 17:28:49,344][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-24 17:28:49,921][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-24 17:28:49,923][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-24 17:28:49,966][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-31 11:55:58,909][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 11:57:06,356][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 11:58:06,385][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 11:59:50,547][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 12:04:15,682][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 13:32:26,739][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 16:24:51,188][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 16:44:24,588][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 16:44:25,287][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-31 16:44:25,293][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-31 16:44:25,367][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-31 16:44:26,980][org.apache.hadoop.mapreduce.JobResourceUploader]Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+[WARN][2019-05-31 16:44:26,995][org.apache.hadoop.mapreduce.JobResourceUploader]No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[INFO][2019-05-31 16:44:27,178][org.apache.hadoop.mapred.FileInputFormat]Total input paths to process : 1
+[INFO][2019-05-31 16:44:27,275][org.apache.hadoop.mapreduce.JobSubmitter]number of splits:1
+[INFO][2019-05-31 16:44:27,601][org.apache.hadoop.mapreduce.JobSubmitter]Submitting tokens for job: job_local1071302657_0001
+[INFO][2019-05-31 16:44:28,025][org.apache.hadoop.mapreduce.Job]The url to track the job: http://localhost:8080/
+[INFO][2019-05-31 16:44:28,029][org.apache.hadoop.mapred.LocalJobRunner]OutputCommitter set in config null
+[INFO][2019-05-31 16:44:28,032][org.apache.hadoop.mapreduce.Job]Running job: job_local1071302657_0001
+[INFO][2019-05-31 16:44:28,044][org.apache.hadoop.mapred.LocalJobRunner]OutputCommitter is org.apache.hadoop.mapred.FileOutputCommitter
+[INFO][2019-05-31 16:44:28,178][org.apache.hadoop.mapred.LocalJobRunner]Waiting for map tasks
+[INFO][2019-05-31 16:44:28,192][org.apache.hadoop.mapred.LocalJobRunner]Starting task: attempt_local1071302657_0001_m_000000_0
+[INFO][2019-05-31 16:44:28,389][org.apache.hadoop.mapred.Task] Using ResourceCalculatorProcessTree : [ ]
+[INFO][2019-05-31 16:44:28,410][org.apache.hadoop.mapred.MapTask]Processing split: hdfs://172.16.89.69:9090/bb/ggg1.txt:0+1085
+[INFO][2019-05-31 16:44:28,471][org.apache.hadoop.mapred.MapTask]numReduceTasks: 1
+[INFO][2019-05-31 16:44:28,644][org.apache.hadoop.mapred.MapTask](EQUATOR) 0 kvi 26214396(104857584)
+[INFO][2019-05-31 16:44:28,644][org.apache.hadoop.mapred.MapTask]mapreduce.task.io.sort.mb: 100
+[INFO][2019-05-31 16:44:28,644][org.apache.hadoop.mapred.MapTask]soft limit at 83886080
+[INFO][2019-05-31 16:44:28,645][org.apache.hadoop.mapred.MapTask]bufstart = 0; bufvoid = 104857600
+[INFO][2019-05-31 16:44:28,645][org.apache.hadoop.mapred.MapTask]kvstart = 26214396; length = 6553600
+[INFO][2019-05-31 16:44:28,654][org.apache.hadoop.mapred.MapTask]Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+[INFO][2019-05-31 16:44:28,905][org.apache.hadoop.mapred.LocalJobRunner]
+[INFO][2019-05-31 16:44:28,906][org.apache.hadoop.mapred.MapTask]Starting flush of map output
+[INFO][2019-05-31 16:44:28,907][org.apache.hadoop.mapred.MapTask]Spilling map output
+[INFO][2019-05-31 16:44:28,907][org.apache.hadoop.mapred.MapTask]bufstart = 0; bufend = 1166; bufvoid = 104857600
+[INFO][2019-05-31 16:44:28,907][org.apache.hadoop.mapred.MapTask]kvstart = 26214396(104857584); kvend = 26214064(104856256); length = 333/6553600
+[INFO][2019-05-31 16:44:28,944][org.apache.hadoop.mapred.MapTask]Finished spill 0
+[INFO][2019-05-31 16:44:28,957][org.apache.hadoop.mapred.Task]Task:attempt_local1071302657_0001_m_000000_0 is done. And is in the process of committing
+[INFO][2019-05-31 16:44:28,981][org.apache.hadoop.mapred.LocalJobRunner]hdfs://172.16.89.69:9090/bb/ggg1.txt:0+1085
+[INFO][2019-05-31 16:44:28,982][org.apache.hadoop.mapred.Task]Task 'attempt_local1071302657_0001_m_000000_0' done.
+[INFO][2019-05-31 16:44:28,982][org.apache.hadoop.mapred.LocalJobRunner]Finishing task: attempt_local1071302657_0001_m_000000_0
+[INFO][2019-05-31 16:44:28,983][org.apache.hadoop.mapred.LocalJobRunner]map task executor complete.
+[INFO][2019-05-31 16:44:28,988][org.apache.hadoop.mapred.LocalJobRunner]Waiting for reduce tasks
+[INFO][2019-05-31 16:44:28,989][org.apache.hadoop.mapred.LocalJobRunner]Starting task: attempt_local1071302657_0001_r_000000_0
+[INFO][2019-05-31 16:44:29,007][org.apache.hadoop.mapred.Task] Using ResourceCalculatorProcessTree : [ ]
+[INFO][2019-05-31 16:44:29,013][org.apache.hadoop.mapred.ReduceTask]Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@2ecfacd9
+[INFO][2019-05-31 16:44:29,037][org.apache.hadoop.mapreduce.Job]Job job_local1071302657_0001 running in uber mode : false
+[INFO][2019-05-31 16:44:29,041][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]MergerManager: memoryLimit=627939712, maxSingleShuffleLimit=156984928, mergeThreshold=414440224, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[INFO][2019-05-31 16:44:29,042][org.apache.hadoop.mapreduce.Job] map 100% reduce 0%
+[INFO][2019-05-31 16:44:29,050][org.apache.hadoop.mapreduce.task.reduce.EventFetcher]attempt_local1071302657_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[INFO][2019-05-31 16:44:29,143][org.apache.hadoop.mapreduce.task.reduce.LocalFetcher]localfetcher#1 about to shuffle output of map attempt_local1071302657_0001_m_000000_0 decomp: 1166 len: 1170 to MEMORY
+[INFO][2019-05-31 16:44:29,156][org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput]Read 1166 bytes from map-output for attempt_local1071302657_0001_m_000000_0
+[INFO][2019-05-31 16:44:29,161][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]closeInMemoryFile -> map-output of size: 1166, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->1166
+[INFO][2019-05-31 16:44:29,168][org.apache.hadoop.mapreduce.task.reduce.EventFetcher]EventFetcher is interrupted.. Returning
+[INFO][2019-05-31 16:44:29,171][org.apache.hadoop.mapred.LocalJobRunner]1 / 1 copied.
+[INFO][2019-05-31 16:44:29,172][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+[INFO][2019-05-31 16:44:29,192][org.apache.hadoop.mapred.Merger]Merging 1 sorted segments
+[INFO][2019-05-31 16:44:29,193][org.apache.hadoop.mapred.Merger]Down to the last merge-pass, with 1 segments left of total size: 1160 bytes
+[INFO][2019-05-31 16:44:29,203][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merged 1 segments, 1166 bytes to disk to satisfy reduce memory limit
+[INFO][2019-05-31 16:44:29,205][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merging 1 files, 1170 bytes from disk
+[INFO][2019-05-31 16:44:29,206][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merging 0 segments, 0 bytes from memory into reduce
+[INFO][2019-05-31 16:44:29,206][org.apache.hadoop.mapred.Merger]Merging 1 sorted segments
+[INFO][2019-05-31 16:44:29,208][org.apache.hadoop.mapred.Merger]Down to the last merge-pass, with 1 segments left of total size: 1160 bytes
+[INFO][2019-05-31 16:44:29,209][org.apache.hadoop.mapred.LocalJobRunner]1 / 1 copied.
+[INFO][2019-05-31 16:44:29,501][org.apache.hadoop.mapred.Task]Task:attempt_local1071302657_0001_r_000000_0 is done. And is in the process of committing
+[INFO][2019-05-31 16:44:29,517][org.apache.hadoop.mapred.LocalJobRunner]1 / 1 copied.
+[INFO][2019-05-31 16:44:29,518][org.apache.hadoop.mapred.Task]Task attempt_local1071302657_0001_r_000000_0 is allowed to commit now
+[INFO][2019-05-31 16:44:29,555][org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter]Saved output of task 'attempt_local1071302657_0001_r_000000_0' to hdfs://172.16.89.69:9090/out/wordcount/_temporary/0/task_local1071302657_0001_r_000000
+[INFO][2019-05-31 16:44:29,558][org.apache.hadoop.mapred.LocalJobRunner]reduce > reduce
+[INFO][2019-05-31 16:44:29,559][org.apache.hadoop.mapred.Task]Task 'attempt_local1071302657_0001_r_000000_0' done.
+[INFO][2019-05-31 16:44:29,559][org.apache.hadoop.mapred.LocalJobRunner]Finishing task: attempt_local1071302657_0001_r_000000_0
+[INFO][2019-05-31 16:44:29,561][org.apache.hadoop.mapred.LocalJobRunner]reduce task executor complete.
+[INFO][2019-05-31 16:44:30,050][org.apache.hadoop.mapreduce.Job] map 100% reduce 100%
+[INFO][2019-05-31 16:44:30,052][org.apache.hadoop.mapreduce.Job]Job job_local1071302657_0001 completed successfully
+[INFO][2019-05-31 16:44:30,092][org.apache.hadoop.mapreduce.Job]Counters: 38
+	File System Counters
+		FILE: Number of bytes read=2656
+		FILE: Number of bytes written=523654
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=2170
+		HDFS: Number of bytes written=892
+		HDFS: Number of read operations=15
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Map-Reduce Framework
+		Map input records=48
+		Map output records=84
+		Map output bytes=1166
+		Map output materialized bytes=1170
+		Input split bytes=88
+		Combine input records=84
+		Combine output records=68
+		Reduce input groups=68
+		Reduce shuffle bytes=1170
+		Reduce input records=68
+		Reduce output records=68
+		Spilled Records=136
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		CPU time spent (ms)=0
+		Physical memory (bytes) snapshot=0
+		Virtual memory (bytes) snapshot=0
+		Total committed heap usage (bytes)=417333248
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1085
+	File Output Format Counters 
+		Bytes Written=892
+[WARN][2019-05-31 16:50:08,542][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 16:57:00,202][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 16:57:34,901][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:12:24,335][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:14:29,591][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:16:16,791][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:16:44,593][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:37:11,905][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:37:52,142][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:38:22,790][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:39:50,550][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:40:01,040][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:40:11,651][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:44:08,968][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:44:33,047][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:45:55,495][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:46:03,145][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:46:26,571][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:47:02,910][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:52:52,122][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 17:52:52,674][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-31 17:52:52,677][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-31 17:52:52,727][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-31 17:52:54,369][org.apache.hadoop.mapreduce.JobResourceUploader]Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+[WARN][2019-05-31 17:52:54,379][org.apache.hadoop.mapreduce.JobResourceUploader]No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[INFO][2019-05-31 17:52:54,511][org.apache.hadoop.mapred.FileInputFormat]Total input paths to process : 0
+[INFO][2019-05-31 17:52:54,669][org.apache.hadoop.mapreduce.JobSubmitter]number of splits:0
+[INFO][2019-05-31 17:52:55,156][org.apache.hadoop.mapreduce.JobSubmitter]Submitting tokens for job: job_local1876402137_0001
+[INFO][2019-05-31 17:52:55,909][org.apache.hadoop.mapreduce.Job]The url to track the job: http://localhost:8080/
+[INFO][2019-05-31 17:52:55,918][org.apache.hadoop.mapreduce.Job]Running job: job_local1876402137_0001
+[INFO][2019-05-31 17:52:55,925][org.apache.hadoop.mapred.LocalJobRunner]OutputCommitter set in config null
+[INFO][2019-05-31 17:52:55,933][org.apache.hadoop.mapred.LocalJobRunner]OutputCommitter is org.apache.hadoop.mapred.FileOutputCommitter
+[INFO][2019-05-31 17:52:56,105][org.apache.hadoop.mapred.LocalJobRunner]Waiting for map tasks
+[INFO][2019-05-31 17:52:56,106][org.apache.hadoop.mapred.LocalJobRunner]map task executor complete.
+[INFO][2019-05-31 17:52:56,117][org.apache.hadoop.mapred.LocalJobRunner]Waiting for reduce tasks
+[INFO][2019-05-31 17:52:56,129][org.apache.hadoop.mapred.LocalJobRunner]Starting task: attempt_local1876402137_0001_r_000000_0
+[INFO][2019-05-31 17:52:56,292][org.apache.hadoop.mapred.Task] Using ResourceCalculatorProcessTree : [ ]
+[INFO][2019-05-31 17:52:56,299][org.apache.hadoop.mapred.ReduceTask]Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@1dd956e1
+[INFO][2019-05-31 17:52:56,406][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]MergerManager: memoryLimit=627939712, maxSingleShuffleLimit=156984928, mergeThreshold=414440224, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[INFO][2019-05-31 17:52:56,414][org.apache.hadoop.mapreduce.task.reduce.EventFetcher]attempt_local1876402137_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[INFO][2019-05-31 17:52:56,432][org.apache.hadoop.mapreduce.task.reduce.EventFetcher]EventFetcher is interrupted.. Returning
+[INFO][2019-05-31 17:52:56,443][org.apache.hadoop.mapred.LocalJobRunner]
+[INFO][2019-05-31 17:52:56,444][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]finalMerge called with 0 in-memory map-outputs and 0 on-disk map-outputs
+[INFO][2019-05-31 17:52:56,447][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merging 0 files, 0 bytes from disk
+[INFO][2019-05-31 17:52:56,449][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merging 0 segments, 0 bytes from memory into reduce
+[INFO][2019-05-31 17:52:56,458][org.apache.hadoop.mapred.Merger]Merging 0 sorted segments
+[INFO][2019-05-31 17:52:56,459][org.apache.hadoop.mapred.Merger]Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[INFO][2019-05-31 17:52:56,460][org.apache.hadoop.mapred.LocalJobRunner]
+[INFO][2019-05-31 17:52:56,637][org.apache.hadoop.mapred.Task]Task:attempt_local1876402137_0001_r_000000_0 is done. And is in the process of committing
+[INFO][2019-05-31 17:52:56,658][org.apache.hadoop.mapred.LocalJobRunner]
+[INFO][2019-05-31 17:52:56,659][org.apache.hadoop.mapred.Task]Task attempt_local1876402137_0001_r_000000_0 is allowed to commit now
+[INFO][2019-05-31 17:52:56,692][org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter]Saved output of task 'attempt_local1876402137_0001_r_000000_0' to hdfs://172.16.89.69:9090/test1-out/wordCount3/_temporary/0/task_local1876402137_0001_r_000000
+[INFO][2019-05-31 17:52:56,696][org.apache.hadoop.mapred.LocalJobRunner]reduce > reduce
+[INFO][2019-05-31 17:52:56,697][org.apache.hadoop.mapred.Task]Task 'attempt_local1876402137_0001_r_000000_0' done.
+[INFO][2019-05-31 17:52:56,698][org.apache.hadoop.mapred.LocalJobRunner]Finishing task: attempt_local1876402137_0001_r_000000_0
+[INFO][2019-05-31 17:52:56,699][org.apache.hadoop.mapred.LocalJobRunner]reduce task executor complete.
+[INFO][2019-05-31 17:52:56,929][org.apache.hadoop.mapreduce.Job]Job job_local1876402137_0001 running in uber mode : false
+[INFO][2019-05-31 17:52:56,933][org.apache.hadoop.mapreduce.Job] map 0% reduce 100%
+[INFO][2019-05-31 17:52:56,937][org.apache.hadoop.mapreduce.Job]Job job_local1876402137_0001 completed successfully
+[INFO][2019-05-31 17:52:56,984][org.apache.hadoop.mapreduce.Job]Counters: 32
+	File System Counters
+		FILE: Number of bytes read=22
+		FILE: Number of bytes written=260029
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=0
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=7
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=3
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=0
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=74
+		CPU time spent (ms)=0
+		Physical memory (bytes) snapshot=0
+		Virtual memory (bytes) snapshot=0
+		Total committed heap usage (bytes)=102236160
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=0
+[WARN][2019-05-31 17:54:22,179][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:55:20,430][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 17:55:20,987][org.apache.hadoop.conf.Configuration.deprecation]session.id is deprecated. Instead, use dfs.metrics.session-id
+[INFO][2019-05-31 17:55:20,989][org.apache.hadoop.metrics.jvm.JvmMetrics]Initializing JVM Metrics with processName=JobTracker, sessionId=
+[INFO][2019-05-31 17:55:21,035][org.apache.hadoop.metrics.jvm.JvmMetrics]Cannot initialize JVM Metrics with processName=JobTracker, sessionId= - already initialized
+[WARN][2019-05-31 17:55:22,762][org.apache.hadoop.mapreduce.JobResourceUploader]Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+[WARN][2019-05-31 17:55:22,780][org.apache.hadoop.mapreduce.JobResourceUploader]No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[INFO][2019-05-31 17:55:22,972][org.apache.hadoop.mapred.FileInputFormat]Total input paths to process : 1
+[INFO][2019-05-31 17:55:23,077][org.apache.hadoop.mapreduce.JobSubmitter]number of splits:1
+[INFO][2019-05-31 17:55:23,531][org.apache.hadoop.mapreduce.JobSubmitter]Submitting tokens for job: job_local812933623_0001
+[INFO][2019-05-31 17:55:24,025][org.apache.hadoop.mapreduce.Job]The url to track the job: http://localhost:8080/
+[INFO][2019-05-31 17:55:24,029][org.apache.hadoop.mapred.LocalJobRunner]OutputCommitter set in config null
+[INFO][2019-05-31 17:55:24,033][org.apache.hadoop.mapred.LocalJobRunner]OutputCommitter is org.apache.hadoop.mapred.FileOutputCommitter
+[INFO][2019-05-31 17:55:24,034][org.apache.hadoop.mapreduce.Job]Running job: job_local812933623_0001
+[INFO][2019-05-31 17:55:24,154][org.apache.hadoop.mapred.LocalJobRunner]Waiting for map tasks
+[INFO][2019-05-31 17:55:24,163][org.apache.hadoop.mapred.LocalJobRunner]Starting task: attempt_local812933623_0001_m_000000_0
+[INFO][2019-05-31 17:55:24,355][org.apache.hadoop.mapred.Task] Using ResourceCalculatorProcessTree : [ ]
+[INFO][2019-05-31 17:55:24,371][org.apache.hadoop.mapred.MapTask]Processing split: hdfs://172.16.89.69:9090/test/ab.txt:0+12
+[INFO][2019-05-31 17:55:24,427][org.apache.hadoop.mapred.MapTask]numReduceTasks: 1
+[INFO][2019-05-31 17:55:25,039][org.apache.hadoop.mapreduce.Job]Job job_local812933623_0001 running in uber mode : false
+[INFO][2019-05-31 17:55:25,042][org.apache.hadoop.mapreduce.Job] map 0% reduce 0%
+[INFO][2019-05-31 17:55:31,972][org.apache.hadoop.mapred.MapTask](EQUATOR) 0 kvi 26214396(104857584)
+[INFO][2019-05-31 17:55:31,975][org.apache.hadoop.mapred.MapTask]mapreduce.task.io.sort.mb: 100
+[INFO][2019-05-31 17:55:31,975][org.apache.hadoop.mapred.MapTask]soft limit at 83886080
+[INFO][2019-05-31 17:55:31,980][org.apache.hadoop.mapred.MapTask]bufstart = 0; bufvoid = 104857600
+[INFO][2019-05-31 17:55:31,981][org.apache.hadoop.mapred.MapTask]kvstart = 26214396; length = 6553600
+[INFO][2019-05-31 17:55:32,026][org.apache.hadoop.mapred.MapTask]Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+[INFO][2019-05-31 17:55:32,324][org.apache.hadoop.mapred.LocalJobRunner]
+[INFO][2019-05-31 17:55:32,325][org.apache.hadoop.mapred.MapTask]Starting flush of map output
+[INFO][2019-05-31 17:55:32,325][org.apache.hadoop.mapred.MapTask]Spilling map output
+[INFO][2019-05-31 17:55:32,325][org.apache.hadoop.mapred.MapTask]bufstart = 0; bufend = 14; bufvoid = 104857600
+[INFO][2019-05-31 17:55:32,325][org.apache.hadoop.mapred.MapTask]kvstart = 26214396(104857584); kvend = 26214396(104857584); length = 1/6553600
+[INFO][2019-05-31 17:55:32,347][org.apache.hadoop.mapred.MapTask]Finished spill 0
+[INFO][2019-05-31 17:55:32,360][org.apache.hadoop.mapred.Task]Task:attempt_local812933623_0001_m_000000_0 is done. And is in the process of committing
+[INFO][2019-05-31 17:55:32,382][org.apache.hadoop.mapred.LocalJobRunner]hdfs://172.16.89.69:9090/test/ab.txt:0+12
+[INFO][2019-05-31 17:55:32,382][org.apache.hadoop.mapred.Task]Task 'attempt_local812933623_0001_m_000000_0' done.
+[INFO][2019-05-31 17:55:32,382][org.apache.hadoop.mapred.LocalJobRunner]Finishing task: attempt_local812933623_0001_m_000000_0
+[INFO][2019-05-31 17:55:32,385][org.apache.hadoop.mapred.LocalJobRunner]map task executor complete.
+[INFO][2019-05-31 17:55:32,392][org.apache.hadoop.mapred.LocalJobRunner]Waiting for reduce tasks
+[INFO][2019-05-31 17:55:32,394][org.apache.hadoop.mapred.LocalJobRunner]Starting task: attempt_local812933623_0001_r_000000_0
+[INFO][2019-05-31 17:55:32,422][org.apache.hadoop.mapred.Task] Using ResourceCalculatorProcessTree : [ ]
+[INFO][2019-05-31 17:55:32,428][org.apache.hadoop.mapred.ReduceTask]Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@2039402d
+[INFO][2019-05-31 17:55:32,461][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]MergerManager: memoryLimit=627939712, maxSingleShuffleLimit=156984928, mergeThreshold=414440224, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[INFO][2019-05-31 17:55:32,467][org.apache.hadoop.mapreduce.task.reduce.EventFetcher]attempt_local812933623_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[INFO][2019-05-31 17:55:32,596][org.apache.hadoop.mapreduce.task.reduce.LocalFetcher]localfetcher#1 about to shuffle output of map attempt_local812933623_0001_m_000000_0 decomp: 18 len: 22 to MEMORY
+[INFO][2019-05-31 17:55:32,618][org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput]Read 18 bytes from map-output for attempt_local812933623_0001_m_000000_0
+[INFO][2019-05-31 17:55:32,627][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]closeInMemoryFile -> map-output of size: 18, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->18
+[INFO][2019-05-31 17:55:32,631][org.apache.hadoop.mapreduce.task.reduce.EventFetcher]EventFetcher is interrupted.. Returning
+[INFO][2019-05-31 17:55:32,639][org.apache.hadoop.mapred.LocalJobRunner]1 / 1 copied.
+[INFO][2019-05-31 17:55:32,640][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+[INFO][2019-05-31 17:55:32,663][org.apache.hadoop.mapred.Merger]Merging 1 sorted segments
+[INFO][2019-05-31 17:55:32,669][org.apache.hadoop.mapred.Merger]Down to the last merge-pass, with 1 segments left of total size: 3 bytes
+[INFO][2019-05-31 17:55:32,677][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merged 1 segments, 18 bytes to disk to satisfy reduce memory limit
+[INFO][2019-05-31 17:55:32,678][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merging 1 files, 22 bytes from disk
+[INFO][2019-05-31 17:55:32,682][org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl]Merging 0 segments, 0 bytes from memory into reduce
+[INFO][2019-05-31 17:55:32,683][org.apache.hadoop.mapred.Merger]Merging 1 sorted segments
+[INFO][2019-05-31 17:55:32,684][org.apache.hadoop.mapred.Merger]Down to the last merge-pass, with 1 segments left of total size: 3 bytes
+[INFO][2019-05-31 17:55:32,687][org.apache.hadoop.mapred.LocalJobRunner]1 / 1 copied.
+[INFO][2019-05-31 17:55:32,987][org.apache.hadoop.mapreduce.Job] map 100% reduce 0%
+[INFO][2019-05-31 17:55:33,029][org.apache.hadoop.mapred.Task]Task:attempt_local812933623_0001_r_000000_0 is done. And is in the process of committing
+[INFO][2019-05-31 17:55:33,060][org.apache.hadoop.mapred.LocalJobRunner]1 / 1 copied.
+[INFO][2019-05-31 17:55:33,061][org.apache.hadoop.mapred.Task]Task attempt_local812933623_0001_r_000000_0 is allowed to commit now
+[INFO][2019-05-31 17:55:33,082][org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter]Saved output of task 'attempt_local812933623_0001_r_000000_0' to hdfs://172.16.89.69:9090/test-out/wordCount3/_temporary/0/task_local812933623_0001_r_000000
+[INFO][2019-05-31 17:55:33,088][org.apache.hadoop.mapred.LocalJobRunner]reduce > reduce
+[INFO][2019-05-31 17:55:33,088][org.apache.hadoop.mapred.Task]Task 'attempt_local812933623_0001_r_000000_0' done.
+[INFO][2019-05-31 17:55:33,089][org.apache.hadoop.mapred.LocalJobRunner]Finishing task: attempt_local812933623_0001_r_000000_0
+[INFO][2019-05-31 17:55:33,089][org.apache.hadoop.mapred.LocalJobRunner]reduce task executor complete.
+[INFO][2019-05-31 17:55:33,988][org.apache.hadoop.mapreduce.Job] map 100% reduce 100%
+[INFO][2019-05-31 17:55:33,990][org.apache.hadoop.mapreduce.Job]Job job_local812933623_0001 completed successfully
+[INFO][2019-05-31 17:55:34,030][org.apache.hadoop.mapreduce.Job]Counters: 38
+	File System Counters
+		FILE: Number of bytes read=356
+		FILE: Number of bytes written=517626
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=24
+		HDFS: Number of bytes written=14
+		HDFS: Number of read operations=15
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Map-Reduce Framework
+		Map input records=1
+		Map output records=1
+		Map output bytes=14
+		Map output materialized bytes=22
+		Input split bytes=88
+		Combine input records=0
+		Combine output records=1
+		Reduce input groups=1
+		Reduce shuffle bytes=22
+		Reduce input records=0
+		Reduce output records=1
+		Spilled Records=2
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		CPU time spent (ms)=0
+		Physical memory (bytes) snapshot=0
+		Virtual memory (bytes) snapshot=0
+		Total committed heap usage (bytes)=413138944
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=12
+	File Output Format Counters 
+		Bytes Written=14
+[WARN][2019-05-31 17:55:53,435][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 17:59:38,576][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 18:01:21,117][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN][2019-05-31 19:09:26,130][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 19:09:27,656][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x78e117e3 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 19:09:27,677][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2019-05-31 19:09:27,677][org.apache.zookeeper.ZooKeeper]Client environment:host.name=nrdpc011.naruida.com
+[INFO][2019-05-31 19:09:27,678][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_212
+[INFO][2019-05-31 19:09:27,679][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2019-05-31 19:09:27,679][org.apache.zookeeper.ZooKeeper]Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+[INFO][2019-05-31 19:09:27,679][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/classes:/home/yongmaow/repository/junit/junit/4.12/junit-4.12.jar:/home/yongmaow/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar:/home/yongmaow/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar:/home/yongmaow/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/yongmaow/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/yongmaow/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/yongmaow/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar:/home/yongmaow/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar:/home/yongmaow/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/home/yongmaow/repository/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.jar:/home/yongmaow/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/home/yongmaow/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/yongmaow/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/home/yongmaow/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/yongmaow/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/home/yongmaow/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/yongmaow/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/home/yongmaow/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/home/yongmaow/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/home/yongmaow/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/yongmaow/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar:/home/yongmaow/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/home/yongmaow/repository/asm/asm/3.1/asm-3.1.jar:/home/yongmaow/repository/tomcat/jasper-compiler/5.5.23/jasper-compiler-5.5.23.jar:/home/yongmaow/repository/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar:/home/yongmaow/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/yongmaow/repository/commons-el/commons-el/1.0/commons-el-1.0.jar:/home/yongmaow/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/yongmaow/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/yongmaow/repository/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar:/home/yongmaow/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar:/home/yongmaow/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/yongmaow/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/home/yongmaow/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/home/yongmaow/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/home/yongmaow/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/yongmaow/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/home/yongmaow/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/home/yongmaow/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar:/home/yongmaow/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/home/yongmaow/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M15/apacheds-i18n-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/api/api-asn1-api/1.0.0-M20/api-asn1-api-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/directory/api/api-util/1.0.0-M20/api-util-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/curator/curator-framework/2.6.0/curator-framework-2.6.0.jar:/home/yongmaow/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar:/home/yongmaow/repository/org/apache/curator/curator-client/2.6.0/curator-client-2.6.0.jar:/home/yongmaow/repository/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.jar:/home/yongmaow/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/yongmaow/repository/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar:/home/yongmaow/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/home/yongmaow/repository/org/tukaani/xz/1.0/xz-1.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar:/home/yongmaow/repository/commons-daemon/commons-daemon/1.0.13/commons-daemon-1.0.13.jar:/home/yongmaow/repository/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.jar:/home/yongmaow/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/home/yongmaow/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/home/yongmaow/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.11.0/hbase-client-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-annotations/1.2.0-cdh5.11.0/hbase-annotations-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.11.0/hbase-common-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.11.0/hadoop-core-2.6.0-mr1-cdh5.11.0.jar:/home/yongmaow/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar:/home/yongmaow/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar:/home/yongmaow/repository/org/apache/hbase/hbase-protocol/1.2.0-cdh5.11.0/hbase-protocol-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar:/home/yongmaow/repository/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar:/home/yongmaow/repository/org/jruby/jcodings/jcodings/1.0.8/jcodings-1.0.8.jar:/home/yongmaow/repository/org/jruby/joni/joni/2.1.2/joni-2.1.2.jar:/home/yongmaow/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/home/yongmaow/repository/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar:/home/yongmaow/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar:/home/yongmaow/repository/jline/jline/0.9.94/jline-0.9.94.jar
+[INFO][2019-05-31 19:09:27,683][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[INFO][2019-05-31 19:09:27,683][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=/tmp
+[INFO][2019-05-31 19:09:27,684][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2019-05-31 19:09:27,684][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Linux
+[INFO][2019-05-31 19:09:27,704][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2019-05-31 19:09:27,704][org.apache.zookeeper.ZooKeeper]Client environment:os.version=4.9.0-8-amd64
+[INFO][2019-05-31 19:09:27,705][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yongmaow
+[INFO][2019-05-31 19:09:27,705][org.apache.zookeeper.ZooKeeper]Client environment:user.home=/home/yongmaow
+[INFO][2019-05-31 19:09:27,705][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop
+[INFO][2019-05-31 19:09:27,708][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x78e117e30x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 19:09:27,777][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 19:09:27,797][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 19:09:27,825][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f0006, negotiated timeout = 40000
+[INFO][2019-05-31 19:09:29,337][org.apache.hadoop.conf.Configuration.deprecation]hadoop.native.lib is deprecated. Instead, use io.native.lib.available
+[INFO][2019-05-31 19:09:31,144][org.apache.hadoop.hbase.client.HBaseAdmin]Created testtable
+[INFO][2019-05-31 19:09:31,148][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x48075da3 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 19:09:31,149][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x48075da30x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 19:09:31,152][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 19:09:31,154][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 19:09:31,160][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f0007, negotiated timeout = 40000
+[INFO][2019-05-31 19:09:35,650][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f0007
+[INFO][2019-05-31 19:09:35,815][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f0007 closed
+[INFO][2019-05-31 19:09:35,815][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[INFO][2019-05-31 19:09:35,838][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing master protocol: MasterService
+[INFO][2019-05-31 19:09:35,841][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f0006
+[INFO][2019-05-31 19:09:35,845][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f0006 closed
+[INFO][2019-05-31 19:09:35,845][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[WARN][2019-05-31 20:26:50,931][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 20:26:52,175][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x78e117e3 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:26:52,193][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2019-05-31 20:26:52,194][org.apache.zookeeper.ZooKeeper]Client environment:host.name=nrdpc011.naruida.com
+[INFO][2019-05-31 20:26:52,194][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_212
+[INFO][2019-05-31 20:26:52,194][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2019-05-31 20:26:52,195][org.apache.zookeeper.ZooKeeper]Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+[INFO][2019-05-31 20:26:52,195][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/classes:/home/yongmaow/repository/junit/junit/4.12/junit-4.12.jar:/home/yongmaow/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar:/home/yongmaow/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar:/home/yongmaow/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/yongmaow/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/yongmaow/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/yongmaow/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar:/home/yongmaow/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar:/home/yongmaow/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/home/yongmaow/repository/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.jar:/home/yongmaow/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/home/yongmaow/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/yongmaow/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/home/yongmaow/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/yongmaow/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/home/yongmaow/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/yongmaow/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/home/yongmaow/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/home/yongmaow/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/home/yongmaow/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/yongmaow/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar:/home/yongmaow/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/home/yongmaow/repository/asm/asm/3.1/asm-3.1.jar:/home/yongmaow/repository/tomcat/jasper-compiler/5.5.23/jasper-compiler-5.5.23.jar:/home/yongmaow/repository/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar:/home/yongmaow/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/yongmaow/repository/commons-el/commons-el/1.0/commons-el-1.0.jar:/home/yongmaow/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/yongmaow/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/yongmaow/repository/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar:/home/yongmaow/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar:/home/yongmaow/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/yongmaow/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/home/yongmaow/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/home/yongmaow/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/home/yongmaow/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/yongmaow/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/home/yongmaow/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/home/yongmaow/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar:/home/yongmaow/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/home/yongmaow/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M15/apacheds-i18n-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/api/api-asn1-api/1.0.0-M20/api-asn1-api-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/directory/api/api-util/1.0.0-M20/api-util-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/curator/curator-framework/2.6.0/curator-framework-2.6.0.jar:/home/yongmaow/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar:/home/yongmaow/repository/org/apache/curator/curator-client/2.6.0/curator-client-2.6.0.jar:/home/yongmaow/repository/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.jar:/home/yongmaow/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/yongmaow/repository/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar:/home/yongmaow/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/home/yongmaow/repository/org/tukaani/xz/1.0/xz-1.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar:/home/yongmaow/repository/commons-daemon/commons-daemon/1.0.13/commons-daemon-1.0.13.jar:/home/yongmaow/repository/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.jar:/home/yongmaow/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/home/yongmaow/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/home/yongmaow/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.11.0/hbase-client-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-annotations/1.2.0-cdh5.11.0/hbase-annotations-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.11.0/hbase-common-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.11.0/hadoop-core-2.6.0-mr1-cdh5.11.0.jar:/home/yongmaow/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar:/home/yongmaow/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar:/home/yongmaow/repository/org/apache/hbase/hbase-protocol/1.2.0-cdh5.11.0/hbase-protocol-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar:/home/yongmaow/repository/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar:/home/yongmaow/repository/org/jruby/jcodings/jcodings/1.0.8/jcodings-1.0.8.jar:/home/yongmaow/repository/org/jruby/joni/joni/2.1.2/joni-2.1.2.jar:/home/yongmaow/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/home/yongmaow/repository/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar:/home/yongmaow/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar:/home/yongmaow/repository/jline/jline/0.9.94/jline-0.9.94.jar
+[INFO][2019-05-31 20:26:52,197][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[INFO][2019-05-31 20:26:52,198][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=/tmp
+[INFO][2019-05-31 20:26:52,198][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2019-05-31 20:26:52,198][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Linux
+[INFO][2019-05-31 20:26:52,198][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2019-05-31 20:26:52,199][org.apache.zookeeper.ZooKeeper]Client environment:os.version=4.9.0-8-amd64
+[INFO][2019-05-31 20:26:52,199][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yongmaow
+[INFO][2019-05-31 20:26:52,199][org.apache.zookeeper.ZooKeeper]Client environment:user.home=/home/yongmaow
+[INFO][2019-05-31 20:26:52,199][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop
+[INFO][2019-05-31 20:26:52,201][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x78e117e30x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:26:52,268][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:26:52,286][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:26:52,306][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f0009, negotiated timeout = 40000
+[INFO][2019-05-31 20:26:53,989][org.apache.hadoop.conf.Configuration.deprecation]hadoop.native.lib is deprecated. Instead, use io.native.lib.available
+[INFO][2019-05-31 20:26:55,642][org.apache.hadoop.hbase.client.HBaseAdmin]Created testtable2
+[INFO][2019-05-31 20:26:55,646][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x6e9a5ed8 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:26:55,647][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x6e9a5ed80x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:26:55,650][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:26:55,655][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:26:55,662][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f000a, negotiated timeout = 40000
+[INFO][2019-05-31 20:26:55,899][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f000a
+[INFO][2019-05-31 20:26:55,905][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f000a closed
+[INFO][2019-05-31 20:26:55,905][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[INFO][2019-05-31 20:26:55,919][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing master protocol: MasterService
+[INFO][2019-05-31 20:26:55,920][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f0009
+[INFO][2019-05-31 20:26:55,926][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f0009 closed
+[INFO][2019-05-31 20:26:55,926][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[WARN][2019-05-31 20:28:23,690][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 20:28:24,968][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x78e117e3 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:28:24,988][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2019-05-31 20:28:24,988][org.apache.zookeeper.ZooKeeper]Client environment:host.name=nrdpc011.naruida.com
+[INFO][2019-05-31 20:28:24,988][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_212
+[INFO][2019-05-31 20:28:24,989][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2019-05-31 20:28:24,989][org.apache.zookeeper.ZooKeeper]Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+[INFO][2019-05-31 20:28:24,989][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/classes:/home/yongmaow/repository/junit/junit/4.12/junit-4.12.jar:/home/yongmaow/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar:/home/yongmaow/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar:/home/yongmaow/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/yongmaow/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/yongmaow/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/yongmaow/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar:/home/yongmaow/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar:/home/yongmaow/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/home/yongmaow/repository/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.jar:/home/yongmaow/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/home/yongmaow/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/yongmaow/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/home/yongmaow/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/yongmaow/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/home/yongmaow/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/yongmaow/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/home/yongmaow/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/home/yongmaow/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/home/yongmaow/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/yongmaow/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar:/home/yongmaow/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/home/yongmaow/repository/asm/asm/3.1/asm-3.1.jar:/home/yongmaow/repository/tomcat/jasper-compiler/5.5.23/jasper-compiler-5.5.23.jar:/home/yongmaow/repository/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar:/home/yongmaow/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/yongmaow/repository/commons-el/commons-el/1.0/commons-el-1.0.jar:/home/yongmaow/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/yongmaow/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/yongmaow/repository/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar:/home/yongmaow/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar:/home/yongmaow/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/yongmaow/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/home/yongmaow/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/home/yongmaow/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/home/yongmaow/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/yongmaow/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/home/yongmaow/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/home/yongmaow/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar:/home/yongmaow/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/home/yongmaow/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M15/apacheds-i18n-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/api/api-asn1-api/1.0.0-M20/api-asn1-api-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/directory/api/api-util/1.0.0-M20/api-util-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/curator/curator-framework/2.6.0/curator-framework-2.6.0.jar:/home/yongmaow/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar:/home/yongmaow/repository/org/apache/curator/curator-client/2.6.0/curator-client-2.6.0.jar:/home/yongmaow/repository/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.jar:/home/yongmaow/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/yongmaow/repository/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar:/home/yongmaow/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/home/yongmaow/repository/org/tukaani/xz/1.0/xz-1.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar:/home/yongmaow/repository/commons-daemon/commons-daemon/1.0.13/commons-daemon-1.0.13.jar:/home/yongmaow/repository/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.jar:/home/yongmaow/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/home/yongmaow/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/home/yongmaow/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.11.0/hbase-client-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-annotations/1.2.0-cdh5.11.0/hbase-annotations-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.11.0/hbase-common-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.11.0/hadoop-core-2.6.0-mr1-cdh5.11.0.jar:/home/yongmaow/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar:/home/yongmaow/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar:/home/yongmaow/repository/org/apache/hbase/hbase-protocol/1.2.0-cdh5.11.0/hbase-protocol-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar:/home/yongmaow/repository/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar:/home/yongmaow/repository/org/jruby/jcodings/jcodings/1.0.8/jcodings-1.0.8.jar:/home/yongmaow/repository/org/jruby/joni/joni/2.1.2/joni-2.1.2.jar:/home/yongmaow/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/home/yongmaow/repository/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar:/home/yongmaow/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar:/home/yongmaow/repository/jline/jline/0.9.94/jline-0.9.94.jar
+[INFO][2019-05-31 20:28:24,992][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[INFO][2019-05-31 20:28:24,992][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=/tmp
+[INFO][2019-05-31 20:28:24,992][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2019-05-31 20:28:24,992][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Linux
+[INFO][2019-05-31 20:28:24,993][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2019-05-31 20:28:24,993][org.apache.zookeeper.ZooKeeper]Client environment:os.version=4.9.0-8-amd64
+[INFO][2019-05-31 20:28:24,993][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yongmaow
+[INFO][2019-05-31 20:28:24,994][org.apache.zookeeper.ZooKeeper]Client environment:user.home=/home/yongmaow
+[INFO][2019-05-31 20:28:24,994][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop
+[INFO][2019-05-31 20:28:24,996][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x78e117e30x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:28:25,076][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:28:25,106][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:28:25,124][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f000b, negotiated timeout = 40000
+[INFO][2019-05-31 20:28:26,728][org.apache.hadoop.hbase.client.HBaseAdmin]Started disable of testtable2
+[INFO][2019-05-31 20:28:29,045][org.apache.hadoop.hbase.client.HBaseAdmin]Disabled testtable2
+[INFO][2019-05-31 20:28:30,323][org.apache.hadoop.hbase.client.HBaseAdmin]Deleted testtable2
+[INFO][2019-05-31 20:28:30,399][org.apache.hadoop.conf.Configuration.deprecation]hadoop.native.lib is deprecated. Instead, use io.native.lib.available
+[INFO][2019-05-31 20:28:32,038][org.apache.hadoop.hbase.client.HBaseAdmin]Created testtable2
+[INFO][2019-05-31 20:28:32,040][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x2a693f59 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:28:32,041][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x2a693f590x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:28:32,043][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:28:32,047][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:28:32,054][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f000c, negotiated timeout = 40000
+[INFO][2019-05-31 20:28:32,280][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f000c
+[INFO][2019-05-31 20:28:32,284][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f000c closed
+[INFO][2019-05-31 20:28:32,284][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[INFO][2019-05-31 20:28:32,298][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing master protocol: MasterService
+[INFO][2019-05-31 20:28:32,302][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f000b
+[INFO][2019-05-31 20:28:32,305][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f000b closed
+[INFO][2019-05-31 20:28:32,306][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[WARN][2019-05-31 20:39:16,303][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 20:39:17,798][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x5b239d7d connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:39:17,826][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2019-05-31 20:39:17,827][org.apache.zookeeper.ZooKeeper]Client environment:host.name=nrdpc011.naruida.com
+[INFO][2019-05-31 20:39:17,827][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_212
+[INFO][2019-05-31 20:39:17,827][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2019-05-31 20:39:17,827][org.apache.zookeeper.ZooKeeper]Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+[INFO][2019-05-31 20:39:17,828][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/test-classes:/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/classes:/home/yongmaow/repository/junit/junit/4.12/junit-4.12.jar:/home/yongmaow/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar:/home/yongmaow/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar:/home/yongmaow/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/yongmaow/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/yongmaow/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/yongmaow/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar:/home/yongmaow/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar:/home/yongmaow/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/home/yongmaow/repository/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.jar:/home/yongmaow/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/home/yongmaow/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/yongmaow/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/home/yongmaow/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/yongmaow/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/home/yongmaow/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/yongmaow/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/home/yongmaow/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/home/yongmaow/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/home/yongmaow/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/yongmaow/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar:/home/yongmaow/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/home/yongmaow/repository/asm/asm/3.1/asm-3.1.jar:/home/yongmaow/repository/tomcat/jasper-compiler/5.5.23/jasper-compiler-5.5.23.jar:/home/yongmaow/repository/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar:/home/yongmaow/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/yongmaow/repository/commons-el/commons-el/1.0/commons-el-1.0.jar:/home/yongmaow/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/yongmaow/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/yongmaow/repository/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar:/home/yongmaow/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar:/home/yongmaow/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/yongmaow/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/home/yongmaow/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/home/yongmaow/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/home/yongmaow/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/yongmaow/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/home/yongmaow/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/home/yongmaow/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar:/home/yongmaow/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/home/yongmaow/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M15/apacheds-i18n-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/api/api-asn1-api/1.0.0-M20/api-asn1-api-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/directory/api/api-util/1.0.0-M20/api-util-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/curator/curator-framework/2.6.0/curator-framework-2.6.0.jar:/home/yongmaow/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar:/home/yongmaow/repository/org/apache/curator/curator-client/2.6.0/curator-client-2.6.0.jar:/home/yongmaow/repository/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.jar:/home/yongmaow/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/yongmaow/repository/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar:/home/yongmaow/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/home/yongmaow/repository/org/tukaani/xz/1.0/xz-1.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar:/home/yongmaow/repository/commons-daemon/commons-daemon/1.0.13/commons-daemon-1.0.13.jar:/home/yongmaow/repository/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.jar:/home/yongmaow/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/home/yongmaow/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/home/yongmaow/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.11.0/hbase-client-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-annotations/1.2.0-cdh5.11.0/hbase-annotations-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.11.0/hbase-common-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.11.0/hadoop-core-2.6.0-mr1-cdh5.11.0.jar:/home/yongmaow/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar:/home/yongmaow/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar:/home/yongmaow/repository/org/apache/hbase/hbase-protocol/1.2.0-cdh5.11.0/hbase-protocol-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar:/home/yongmaow/repository/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar:/home/yongmaow/repository/org/jruby/jcodings/jcodings/1.0.8/jcodings-1.0.8.jar:/home/yongmaow/repository/org/jruby/joni/joni/2.1.2/joni-2.1.2.jar:/home/yongmaow/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/home/yongmaow/repository/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar:/home/yongmaow/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar:/home/yongmaow/repository/jline/jline/0.9.94/jline-0.9.94.jar:/home/yongmaow/coding/eclipse-jee-2018-09-linux-gtk-x86_64/eclipse/configuration/org.eclipse.osgi/412/0/.cp:/home/yongmaow/coding/eclipse-jee-2018-09-linux-gtk-x86_64/eclipse/configuration/org.eclipse.osgi/411/0/.cp
+[INFO][2019-05-31 20:39:17,830][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[INFO][2019-05-31 20:39:17,830][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=/tmp
+[INFO][2019-05-31 20:39:17,830][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2019-05-31 20:39:17,831][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Linux
+[INFO][2019-05-31 20:39:17,831][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2019-05-31 20:39:17,831][org.apache.zookeeper.ZooKeeper]Client environment:os.version=4.9.0-8-amd64
+[INFO][2019-05-31 20:39:17,831][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yongmaow
+[INFO][2019-05-31 20:39:17,831][org.apache.zookeeper.ZooKeeper]Client environment:user.home=/home/yongmaow
+[INFO][2019-05-31 20:39:17,832][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop
+[INFO][2019-05-31 20:39:17,833][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x5b239d7d0x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:39:17,901][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:39:17,919][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:39:17,939][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f000d, negotiated timeout = 40000
+[INFO][2019-05-31 20:39:19,587][org.apache.hadoop.conf.Configuration.deprecation]hadoop.native.lib is deprecated. Instead, use io.native.lib.available
+[INFO][2019-05-31 20:39:21,288][org.apache.hadoop.hbase.client.HBaseAdmin]Created testtable3
+[INFO][2019-05-31 20:39:21,292][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x465232e9 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:39:21,293][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x465232e90x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:39:21,296][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:39:21,299][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:39:21,307][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f000e, negotiated timeout = 40000
+[INFO][2019-05-31 20:39:21,564][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f000e
+[INFO][2019-05-31 20:39:21,569][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f000e closed
+[INFO][2019-05-31 20:39:21,569][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[INFO][2019-05-31 20:39:21,584][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing master protocol: MasterService
+[INFO][2019-05-31 20:39:21,586][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f000d
+[INFO][2019-05-31 20:39:21,590][org.apache.zookeeper.ClientCnxn]EventThread shut down
+[INFO][2019-05-31 20:39:21,591][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f000d closed
+[WARN][2019-05-31 20:42:34,156][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 20:42:35,371][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x6d763516 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:42:35,388][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2019-05-31 20:42:35,389][org.apache.zookeeper.ZooKeeper]Client environment:host.name=nrdpc011.naruida.com
+[INFO][2019-05-31 20:42:35,389][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_212
+[INFO][2019-05-31 20:42:35,389][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2019-05-31 20:42:35,390][org.apache.zookeeper.ZooKeeper]Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+[INFO][2019-05-31 20:42:35,390][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/test-classes:/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/classes:/home/yongmaow/repository/junit/junit/4.12/junit-4.12.jar:/home/yongmaow/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar:/home/yongmaow/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar:/home/yongmaow/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/yongmaow/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/yongmaow/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/yongmaow/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar:/home/yongmaow/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar:/home/yongmaow/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/home/yongmaow/repository/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.jar:/home/yongmaow/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/home/yongmaow/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/yongmaow/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/home/yongmaow/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/yongmaow/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/home/yongmaow/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/yongmaow/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/home/yongmaow/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/home/yongmaow/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/home/yongmaow/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/yongmaow/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar:/home/yongmaow/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/home/yongmaow/repository/asm/asm/3.1/asm-3.1.jar:/home/yongmaow/repository/tomcat/jasper-compiler/5.5.23/jasper-compiler-5.5.23.jar:/home/yongmaow/repository/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar:/home/yongmaow/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/yongmaow/repository/commons-el/commons-el/1.0/commons-el-1.0.jar:/home/yongmaow/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/yongmaow/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/yongmaow/repository/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar:/home/yongmaow/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar:/home/yongmaow/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/yongmaow/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/home/yongmaow/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/home/yongmaow/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/home/yongmaow/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/yongmaow/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/home/yongmaow/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/home/yongmaow/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar:/home/yongmaow/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/home/yongmaow/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M15/apacheds-i18n-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/api/api-asn1-api/1.0.0-M20/api-asn1-api-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/directory/api/api-util/1.0.0-M20/api-util-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/curator/curator-framework/2.6.0/curator-framework-2.6.0.jar:/home/yongmaow/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar:/home/yongmaow/repository/org/apache/curator/curator-client/2.6.0/curator-client-2.6.0.jar:/home/yongmaow/repository/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.jar:/home/yongmaow/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/yongmaow/repository/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar:/home/yongmaow/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/home/yongmaow/repository/org/tukaani/xz/1.0/xz-1.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar:/home/yongmaow/repository/commons-daemon/commons-daemon/1.0.13/commons-daemon-1.0.13.jar:/home/yongmaow/repository/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.jar:/home/yongmaow/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/home/yongmaow/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/home/yongmaow/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.11.0/hbase-client-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-annotations/1.2.0-cdh5.11.0/hbase-annotations-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.11.0/hbase-common-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.11.0/hadoop-core-2.6.0-mr1-cdh5.11.0.jar:/home/yongmaow/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar:/home/yongmaow/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar:/home/yongmaow/repository/org/apache/hbase/hbase-protocol/1.2.0-cdh5.11.0/hbase-protocol-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar:/home/yongmaow/repository/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar:/home/yongmaow/repository/org/jruby/jcodings/jcodings/1.0.8/jcodings-1.0.8.jar:/home/yongmaow/repository/org/jruby/joni/joni/2.1.2/joni-2.1.2.jar:/home/yongmaow/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/home/yongmaow/repository/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar:/home/yongmaow/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar:/home/yongmaow/repository/jline/jline/0.9.94/jline-0.9.94.jar:/home/yongmaow/coding/eclipse-jee-2018-09-linux-gtk-x86_64/eclipse/configuration/org.eclipse.osgi/412/0/.cp:/home/yongmaow/coding/eclipse-jee-2018-09-linux-gtk-x86_64/eclipse/configuration/org.eclipse.osgi/411/0/.cp
+[INFO][2019-05-31 20:42:35,392][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[INFO][2019-05-31 20:42:35,393][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=/tmp
+[INFO][2019-05-31 20:42:35,393][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2019-05-31 20:42:35,393][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Linux
+[INFO][2019-05-31 20:42:35,393][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2019-05-31 20:42:35,393][org.apache.zookeeper.ZooKeeper]Client environment:os.version=4.9.0-8-amd64
+[INFO][2019-05-31 20:42:35,394][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yongmaow
+[INFO][2019-05-31 20:42:35,394][org.apache.zookeeper.ZooKeeper]Client environment:user.home=/home/yongmaow
+[INFO][2019-05-31 20:42:35,394][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop
+[INFO][2019-05-31 20:42:35,396][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x6d7635160x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:42:35,447][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:42:35,461][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:42:35,492][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f000f, negotiated timeout = 40000
+[INFO][2019-05-31 20:42:36,149][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0xffaa6af connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:42:36,149][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0xffaa6af0x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:42:36,151][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:42:36,155][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:42:36,158][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f0010, negotiated timeout = 40000
+[WARN][2019-05-31 20:52:02,569][org.apache.hadoop.util.NativeCodeLoader]Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[INFO][2019-05-31 20:52:03,832][org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper]Process identifier=hconnection-0x6ef888f6 connecting to ZooKeeper ensemble=172.16.89.69:2181
+[INFO][2019-05-31 20:52:03,863][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2019-05-31 20:52:03,863][org.apache.zookeeper.ZooKeeper]Client environment:host.name=nrdpc011.naruida.com
+[INFO][2019-05-31 20:52:03,863][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_212
+[INFO][2019-05-31 20:52:03,864][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2019-05-31 20:52:03,864][org.apache.zookeeper.ZooKeeper]Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+[INFO][2019-05-31 20:52:03,864][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop/target/classes:/home/yongmaow/repository/junit/junit/4.12/junit-4.12.jar:/home/yongmaow/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar:/home/yongmaow/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar:/home/yongmaow/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/home/yongmaow/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar:/home/yongmaow/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/yongmaow/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar:/home/yongmaow/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar:/home/yongmaow/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/home/yongmaow/repository/org/apache/commons/commons-math3/3.1.1/commons-math3-3.1.1.jar:/home/yongmaow/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/home/yongmaow/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/yongmaow/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/home/yongmaow/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/yongmaow/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/home/yongmaow/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/yongmaow/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/home/yongmaow/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/home/yongmaow/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/home/yongmaow/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/home/yongmaow/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/home/yongmaow/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar:/home/yongmaow/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/home/yongmaow/repository/asm/asm/3.1/asm-3.1.jar:/home/yongmaow/repository/tomcat/jasper-compiler/5.5.23/jasper-compiler-5.5.23.jar:/home/yongmaow/repository/tomcat/jasper-runtime/5.5.23/jasper-runtime-5.5.23.jar:/home/yongmaow/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/yongmaow/repository/commons-el/commons-el/1.0/commons-el-1.0.jar:/home/yongmaow/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/yongmaow/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/yongmaow/repository/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar:/home/yongmaow/repository/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar:/home/yongmaow/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar:/home/yongmaow/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/yongmaow/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/home/yongmaow/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/home/yongmaow/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/home/yongmaow/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/home/yongmaow/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/home/yongmaow/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/home/yongmaow/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/home/yongmaow/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/home/yongmaow/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar:/home/yongmaow/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/home/yongmaow/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/server/apacheds-i18n/2.0.0-M15/apacheds-i18n-2.0.0-M15.jar:/home/yongmaow/repository/org/apache/directory/api/api-asn1-api/1.0.0-M20/api-asn1-api-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/directory/api/api-util/1.0.0-M20/api-util-1.0.0-M20.jar:/home/yongmaow/repository/org/apache/curator/curator-framework/2.6.0/curator-framework-2.6.0.jar:/home/yongmaow/repository/com/jcraft/jsch/0.1.42/jsch-0.1.42.jar:/home/yongmaow/repository/org/apache/curator/curator-client/2.6.0/curator-client-2.6.0.jar:/home/yongmaow/repository/org/apache/curator/curator-recipes/2.6.0/curator-recipes-2.6.0.jar:/home/yongmaow/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/yongmaow/repository/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar:/home/yongmaow/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/home/yongmaow/repository/org/tukaani/xz/1.0/xz-1.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar:/home/yongmaow/repository/commons-daemon/commons-daemon/1.0.13/commons-daemon-1.0.13.jar:/home/yongmaow/repository/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.jar:/home/yongmaow/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/home/yongmaow/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/home/yongmaow/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.11.0/hbase-client-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-annotations/1.2.0-cdh5.11.0/hbase-annotations-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.11.0/hbase-common-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.11.0/hadoop-core-2.6.0-mr1-cdh5.11.0.jar:/home/yongmaow/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar:/home/yongmaow/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar:/home/yongmaow/repository/org/apache/hbase/hbase-protocol/1.2.0-cdh5.11.0/hbase-protocol-1.2.0-cdh5.11.0.jar:/home/yongmaow/repository/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar:/home/yongmaow/repository/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar:/home/yongmaow/repository/org/jruby/jcodings/jcodings/1.0.8/jcodings-1.0.8.jar:/home/yongmaow/repository/org/jruby/joni/joni/2.1.2/joni-2.1.2.jar:/home/yongmaow/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/home/yongmaow/repository/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1.jar:/home/yongmaow/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar:/home/yongmaow/repository/jline/jline/0.9.94/jline-0.9.94.jar
+[INFO][2019-05-31 20:52:03,867][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[INFO][2019-05-31 20:52:03,867][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=/tmp
+[INFO][2019-05-31 20:52:03,868][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2019-05-31 20:52:03,868][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Linux
+[INFO][2019-05-31 20:52:03,868][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2019-05-31 20:52:03,868][org.apache.zookeeper.ZooKeeper]Client environment:os.version=4.9.0-8-amd64
+[INFO][2019-05-31 20:52:03,869][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yongmaow
+[INFO][2019-05-31 20:52:03,869][org.apache.zookeeper.ZooKeeper]Client environment:user.home=/home/yongmaow
+[INFO][2019-05-31 20:52:03,869][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=/home/yongmaow/下载/zhangchd-hadoop-master/hadoop
+[INFO][2019-05-31 20:52:03,872][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=172.16.89.69:2181 sessionTimeout=90000 watcher=hconnection-0x6ef888f60x0, quorum=172.16.89.69:2181, baseZNode=/hbase
+[INFO][2019-05-31 20:52:03,927][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 172.16.89.69/172.16.89.69:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO][2019-05-31 20:52:03,947][org.apache.zookeeper.ClientCnxn]Socket connection established to 172.16.89.69/172.16.89.69:2181, initiating session
+[INFO][2019-05-31 20:52:03,975][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 172.16.89.69/172.16.89.69:2181, sessionid = 0x16b0f04ce2f0011, negotiated timeout = 40000
+[INFO][2019-05-31 20:52:05,736][org.apache.hadoop.conf.Configuration.deprecation]hadoop.native.lib is deprecated. Instead, use io.native.lib.available
+[INFO][2019-05-31 20:52:07,448][org.apache.hadoop.hbase.client.HBaseAdmin]Created huoying
+[INFO][2019-05-31 20:52:07,735][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing master protocol: MasterService
+[INFO][2019-05-31 20:52:07,737][org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation]Closing zookeeper sessionid=0x16b0f04ce2f0011
+[INFO][2019-05-31 20:52:07,742][org.apache.zookeeper.ZooKeeper]Session: 0x16b0f04ce2f0011 closed
+[INFO][2019-05-31 20:52:07,742][org.apache.zookeeper.ClientCnxn]EventThread shut down
